@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @digitalesch
-- 👀 I’m interested in 3D modeling, coding
+- 👀 I’m interested in 3D modeling, coding, electronics
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
